@@ -1,0 +1,1 @@
+Dikarenakan dataset tidak bisa diupload digithub silahkan download sendiri, lalu taruh ke dalam folder dataset. berikut link datasetnya: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
